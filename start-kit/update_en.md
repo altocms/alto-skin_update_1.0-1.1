@@ -1,3 +1,9 @@
+## 1. Copy the files
+You need to copy files from /start-kit/assets and /start-kit/tpls to the same folders of skin start-kit for your site
+
+## 2. Edit the files
+You need to edit the following files:
+
 ### file: settings/config/config.php
 find:
 
